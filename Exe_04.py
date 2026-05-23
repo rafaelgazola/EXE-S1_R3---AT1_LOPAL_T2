@@ -15,4 +15,4 @@ for i in range(n_user):
   penultimo = ultimo
   ultimo = proximo
 
-print(f"Resultado para o senhor {n_user}, Como o senhor queria 👌") #resultado de quantidade q o user queria
+print(f"Resultado para o senhor {n_user}, Como o senhor queria 👌") #resultado de quantidade q o user queria.

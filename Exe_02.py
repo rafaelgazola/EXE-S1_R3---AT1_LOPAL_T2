@@ -8,7 +8,7 @@ n3 = int(input("Digite o terceiro numero:"))
 #criando a lista
 lista = [n1,n2,n3]
 
-#lista definindo maior numero, e o menor numero
+#lista definindo maior numero, e o menor numero.
 maior = max(lista)
 menor = min(lista)
 

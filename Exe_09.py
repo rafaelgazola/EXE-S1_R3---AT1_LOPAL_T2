@@ -6,4 +6,4 @@ dicionario = {"Salgado R$": 4.50,      #definição do 'Dicionario' dos preços
               "Refrigerante R$": 3.50,
               "Doce R$": 1.00 }
 
-pprint(dicionario) # e imprimindo o 'dicionario' definido
+pprint(dicionario) # e imprimindo o 'dicionario' definido.

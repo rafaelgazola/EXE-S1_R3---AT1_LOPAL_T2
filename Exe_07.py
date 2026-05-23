@@ -6,5 +6,5 @@ fatorial = 1  #Calcula usando range a fatorial multiplicando todos os numeros do
 for i in range(1, fat +1):
   fatorial = fatorial * i  #aplicando na variavel
 
-print(f"Sua fatorial senhor, é {fatorial}") #saida de dados
+print(f"Sua fatorial senhor, é {fatorial}") #saida de dados.
     

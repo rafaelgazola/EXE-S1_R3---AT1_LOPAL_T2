@@ -17,7 +17,7 @@ print(f"Maravilha então, {idade} anos 🎂") #saida
 
 #entrada dados (SALARIO) float porque pode ser numero quebrado
 salario = float(input("Digite qual é o seu salario: "))
-while salario <= 0: #mesma sequencia da idade, se for abaixo de 0 você nao tem salario
+while salario <= 0: #mesma sequencia da idade, se for abaixo de 0 você nao tem salario.
     print("O senhor está sem dinheiro?")
     salario = float(input("Digite um salario serio: "))
 
