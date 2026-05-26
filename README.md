@@ -4,7 +4,7 @@
 
 # 🐍 AT2 — Exercícios de Lógica de Programação em Python
 
-Repositório com as resoluções dos exercícios da **Atividade 2 (AT2)** da disciplina de Lógica de Programação, cobrindo estruturas de repetição (`for`, `while`), condicionais, listas, dicionários e manipulação de strings.
+Repositório com as resoluções dos exercícios da **Atividade 2 (AT2)** da disciplina de Lógica de Programação (SENAI), cobrindo estruturas de repetição (`for`, `while`), condicionais, listas, dicionários e manipulação de strings.
 
 ---
 
